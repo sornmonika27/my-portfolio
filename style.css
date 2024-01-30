@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+}
+.container{
+    position: relative;
+    width: 60%;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+}
+.box{
+    position: relative;
+    width: 100%;
+    background-color: rgb(17, 5, 19);
+    margin: auto;
+}
+image-box img{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-image: url("Untitled.jpeg");
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rgba(0, 0, 0, 0.301); */
+    position: relative; 
+}
+
+.logo {
+    position: absolute;
+    top:0;
+    width: 10%;
+    height: 8%;
+    /* border-radius: 50%; */
+    height: auto;
+    overflow: hidden;}
+.text{
+        position: absolute;
+        right: 200px;
+        top: 200px;
+        font-size: 55px;
+        color: white;
+        font-weight: bold;
+        font-family: Inika;
+    }
+    .text-1{
+        position: absolute;
+        right: 125px;
+        top: 270px;
+        font-size: 55px;
+        color: rgb(223, 219, 22) ;
+        font-weight: bold;
+        font-family: Inika;
+    }
+    h4{font-weight: bold;
+        position: absolute;
+        right: 130px;
+        top: 330px;
+        font-size: 20px;
+        color: white;
+    }
+    p{
+        position: absolute;
+        right: 60px;
+        top: 380px;
+        font-size: 22px;
+        color: white;
+    }
+    .button {
+        position: absolute;
+        top: 400px;
+        right: 0px;
+        /* background-color: black; */
+        color: rgb(150, 144, 144);
+        padding: 20px;
+        text-align: center;
+        display: inline-block;
+        font-size: 200px;
+        /* margin: 4px 2px; */
+        cursor: pointer;
+        scale: 20px;
+        /* text-align: center;
+        display: flex;
+        justify-conte display: flex;
+        justify-content: center;
+        align-items: center;nt: center;
+        align-items: center; */
+      }
+      .icon{
+        position:absolute;
+        right: 100px;
+        bottom: 10px;
+    }
+     

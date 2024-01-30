@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+}
+.container{
+    position: relative;
+    width: 60%;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+}
+.box{
+    position: relative;
+    width: 100%;
+    background-color: rgb(17, 5, 19);
+    margin: auto;
+}
+image-box img{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-image: url("Untitled.jpeg");
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rgba(0, 0, 0, 0.301); */
+    position: relative; 
+}
+
+.logo {
+    position: absolute;
+    top:0;
+    width: 10%;
+    height: 8%;
+    /* border-radius: 50%; */
+    height: auto;
+    overflow: hidden;}
+.button {
+        position: absolute;
+        top: 0;
+        right: 0px;
+        /* background-color: black; */
+        color: rgb(17, 7, 7);
+        padding: 20px;
+        text-align: center;
+        display: inline-block;
+        font-size: 150px;
+        /* margin: 4px 2px; */
+        cursor: pointer;
+        justify-content: space-between;
+      }
+    .back{
+        position: absolute;
+        top: 5px;
+        right: 10px;
+        /* background-color: black; */
+        color: rgb(241, 235, 235);
+        font-weight: bold;
+        padding: 20px;
+        text-align: center;
+        gon
+        display: inline-block;
+        font-size: 150px;
+        /* margin: 4px 2px; */
+        cursor: pointer;
+        justify-content: space-between;
+      }
+.iconback{
+        position: absolute;
+        top: 9px;
+        right: 80px;
+        color: black;
+        font-size: 30px;
+
+    }
+.icon{
+        position:absolute;
+        right: 10px;
+        bottom: 10px;
+    }
+h1{
+    position: absolute;
+    top: 360px;
+    right: 290px;
+    color: rgb(255, 255, 255);
+}
+p{
+    position: absolute;
+    top: 460px;
+    right: 50px;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.918);
+}
