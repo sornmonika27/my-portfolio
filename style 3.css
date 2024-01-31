@@ -90,3 +90,8 @@ image-box img{
     top: 500px;
     left: 500px;
 }
+.text-1{
+    position:absolute ;
+    width: 90%;
+    height: 50px;
+}

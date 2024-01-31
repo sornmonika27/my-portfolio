@@ -85,10 +85,11 @@ image-box img{
         justify-content: center;
         align-items: center;nt: center;
         align-items: center; */
+        /* display: block; */
       }
       .icon{
         position:absolute;
-        right: 100px;
+        right: 10px;
         bottom: 10px;
     }
      
