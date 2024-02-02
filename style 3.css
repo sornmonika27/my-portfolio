@@ -11,6 +11,7 @@ body{
 .box{
     position: relative;
     width:960px;
+    height: 1180px;
     background-color: rgb(17, 5, 19);
     margin: auto;
 }
@@ -72,19 +73,19 @@ image-box img{
         font-size: 30px;
 
     }
-.icon{
+/* .icon{
         position:absolute;
         right: 10px;
         bottom: 10px;
-    }
+    } */
 .background-color{
     position: absolute;
     top: 220px;
     width: 920px;
-    height: 1050px;
+    height: 950px;
     background-color: rgba(245, 241, 241, 0.562);
     left: 20px;
-}background-color: black;
+}
 .message{
     position: fixed;
     top: 500px;
@@ -94,4 +95,85 @@ image-box img{
     position:absolute ;
     width: 90%;
     height: 50px;
+}
+.contact-box1{
+    position: absolute;
+    width: 400px;
+    height: 450px;
+    /* background-color: pink; */
+    left: 15px;
+}
+.contact-box2{
+    position: absolute;
+    width: 500px;
+    height: 450px;
+    /* background-color: rgb(228, 20, 54); */
+    right: 0;
+}
+.text-contact{
+    position: absolute;
+    font-size: 22PX;
+    /* font-weight: bold; */
+    font-family: Inika;
+    left: 130px;
+    top: 20px;
+}
+.text-contact-1{
+    position: absolute;
+    left: 80px;
+    top: 60px;
+}
+.text-contact-2{
+    position: absolute;
+    font-size: 22PX;
+    /* font-weight: bold; */
+    font-family: Inika;
+    left: 80px;
+    top: 130px;
+}
+.text-contact-3{
+    position: absolute;
+    left: 130px;
+    top: 160px;
+}
+.text-contact-4{
+    position: absolute;
+    font-size: 22PX;
+    /* font-weight: bold; */
+    font-family: Inika;
+    left: 120px;
+    top: 230px;
+}
+.text-contact-5{
+    position: absolute;
+    left: 130px;
+    top: 260px;
+}
+.text-contact-6{
+    position: absolute;
+    font-size: 22PX;
+    /* font-weight: bold; */
+    font-family: Inika;
+    left: 150px;
+    top: 330px;
+}
+.text-contact-7{
+    position: absolute;
+    left: 80px;
+    top: 360px;
+}
+.last-text{
+    position: absolute;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    top: 220px;
+    left: 100px;
+
+    
+}
+.box-picture{
+    position: absolute;
+    left: 70px;
+    top: 5px;
 }

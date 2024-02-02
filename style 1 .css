@@ -14,11 +14,11 @@ body{
     background-color: rgb(17, 5, 19);
     margin: auto;
 }
-image-box img{
+.image-box img{
     width: 100%;
     height: auto;
     overflow: hidden;
-    background-image: url("Untitled.jpeg");
+    background-image: url("ka.jpeg");
     /* background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -66,7 +66,7 @@ image-box img{
       }
 .iconback{
         position: absolute;
-        top: 9px;
+        top: 12px;
         right: 80px;
         color: black;
         font-size: 30px;
@@ -79,14 +79,17 @@ image-box img{
     }
 h1{
     position: absolute;
-    top: 360px;
-    right: 290px;
+    top: 300px;
+    right: 270px;
     color: rgb(255, 255, 255);
+    font-size: 45px;
 }
 p{
     position: absolute;
-    top: 460px;
-    right: 50px;
-    font-size: 25px;
-    color: rgba(255, 255, 255, 0.918);
+    top: 400px;
+    right: 40px;
+    font-size: 30px;
+    color: rgb(252, 247, 247);
+    font-weight: bold;
+    line-height: 1.5;
 }
