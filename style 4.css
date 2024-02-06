@@ -1,0 +1,191 @@
+body{
+    margin: 0;
+}
+.container{
+    position: relative;
+    width: 60%;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+}
+.box{
+    position: relative;
+    width: 100%;
+    background-color: rgb(17, 5, 19);
+    margin: auto;
+}
+.image-box img{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-image: url("ka.jpeg");
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: rgba(0, 0, 0, 0.301); */
+    position: relative; 
+}
+
+.logo {
+    position: absolute;
+    top:0;
+    width: 10%;
+    height: 8%;
+    /* border-radius: 50%; */
+    height: auto;
+    overflow: hidden;}
+.button {
+        position: absolute;
+        top: 0;
+        right: 0px;
+        /* background-color: black; */
+        color: rgb(17, 7, 7);
+        padding: 20px;
+        text-align: center;
+        display: inline-block;
+        font-size: 150px;
+        /* margin: 4px 2px; */
+        cursor: pointer;
+        justify-content: space-between;
+      }
+    .back{
+        position: absolute;
+        top: 5px;
+        right: 10px;
+        /* background-color: black; */
+        color: rgb(241, 235, 235);
+        font-weight: bold;
+        padding: 20px;
+        text-align: center;
+        gon
+        display: inline-block;
+        font-size: 150px;
+        /* margin: 4px 2px; */
+        cursor: pointer;
+        justify-content: space-between;
+      }
+.iconback{
+        position: absolute;
+        top: 12px;
+        right: 80px;
+        color: black;
+        font-size: 30px;
+
+    }
+.icon{
+        position:absolute;
+        right: 10px;
+        bottom: 10px;
+    }
+.box-1{
+    position: absolute;
+    width: 450px;
+    height: 420px;
+    background-color: rgba(247, 244, 244, 0.692);
+    top: 400px;
+    left: 55px;
+    border-radius: 30px;
+  
+}
+.box-1-1{
+    width: 400px;
+    height: 60px;
+    background-color: rgba(110, 110, 109, 0.815);
+    margin-top: 20px;
+    margin-left: 25px;
+    border-radius: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Inika;
+    border: 2px solid black;
+
+}
+.box-1-2 img{
+    width: 400px;
+    height: 300px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+.box-1-2{
+    width: 400px;
+    height: 300px;
+    /* background-color: yellow; */
+    margin-top: 20px;
+    margin-left: 25px;
+    /* border-radius: 50px; */
+}
+
+.box-2{
+    position: absolute;
+    width: 450px;
+    height: 420px;
+    background-color: rgba(255, 255, 255, 0.692);
+    top: 400px;
+    right:55px;
+    border-radius: 30px;
+}
+.box-2-1{
+    width: 400px;
+    height: 60px;
+    background-color: rgb(110, 110, 109, 0.836);
+    margin-top: 20px;
+    margin-left: 25px;
+    border-radius: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Inika;
+    border: 2px solid black;
+}
+.box-2-2{
+    width: 400px;
+    height: 300px;
+    /* background-color: yellow; */
+    margin-top: 20px;
+    margin-left: 25px;
+    /* border-radius: 50px; */
+
+}
+.box-2-2 img{
+    width: 400px;
+    height: 300px;
+    border-radius: 50px;
+}
+.box-3{
+    position: absolute;
+    width: 450px;
+    height: 420px;
+    background-color: rgba(255, 255, 255, 0.692);
+    top: 900px;
+    right:330px;
+    border-radius: 30px;
+}
+.box-3-1{
+    width: 400px;
+    height: 60px;
+    background-color: rgb(110, 110, 109, 0.836);
+    margin-top: 20px;
+    margin-left: 25px;
+    border-radius: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    font-family: Inika;
+    border: 2px solid black;
+
+}
+.box-3-2 img{
+    width: 400px;
+    height: 300px;
+    border-radius: 50px;
+}
+.box-3-2{
+    width: 400px;
+    height: 300px;
+    /* background-color: yellow; */
+    margin-top: 20px;
+    margin-left: 25px;
+    /* border-radius: 50px; */
+}
